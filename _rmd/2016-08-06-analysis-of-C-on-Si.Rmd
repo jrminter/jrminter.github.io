@@ -14,7 +14,7 @@ Especially when we run the analysis at low acceleration voltages, the carbon coa
 
 Six of the resulting spectra, after subtraction of the continuum,are shown below.
 
-![spectra](/images/cOnSi5kV)
+![spectra](/images/cOnSi5kV.png)
 
 The script also computed the peak integrals, outputting the integral and an estimate of the uncertainty to a `.csv` file. I then used R to analyze the data (computed at 5 nm increments, even though the plots are at 20 nm increments). I computed a smooth curve using the `LOESS` algorithm. The predicted values may be used as a lookup table.
 
