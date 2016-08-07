@@ -22,7 +22,7 @@ The script also computed the peak integrals, outputting the integral and an esti
 
 ![calibration curve](/images/c-ctd-si-series-plt.png)
 
-All the code in my [dtsa2Scripts](https://github.com/jrminter/dtsa2Scripts/tree/master/estThickC) repository.
+All the code is in my [dtsa2Scripts](https://github.com/jrminter/dtsa2Scripts/tree/master/estThickC) repository.
 
 
 
